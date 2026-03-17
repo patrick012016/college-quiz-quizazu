@@ -53,6 +53,5 @@ Website that is being created for college project. It will let players to play t
 * **Forpsi** - domain provider and SMTP server
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

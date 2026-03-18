@@ -59,7 +59,7 @@ Quizazu is a client-server application designed for creating, managing, and part
     * React.js (client-side rendering for dynamic content)
     * HTML5, CSS3, JavaScript, Bootstrap
 * **Mobile application:** 
-    * Native Android in Java (see [GitHub repository](https://github.com/patrick012016/CollegeQuizMobileApp))
+    * Native Android in Java (see [GitHub repository](https://github.com/patrick012016/college-quiz-quizazu-mobile-app))
 
 **Server**:
 * ASP.NET Core C# MVC
@@ -156,7 +156,7 @@ SFTP_HREF=[main server url]
 
 - [@Lettulouz](https://www.github.com/Lettulouz) - Leader
 - [@Milosz08](https://www.github.com/Milosz08) - Lead developer, game session designer, WebSockets communication, client-side rendering
-- [@patrick012016](https://www.github.com/patrick012016) - Mobile app development, core system support ([GitHub repository](https://github.com/patrick012016/CollegeQuizMobileApp))
+- [@patrick012016](https://www.github.com/patrick012016) - Mobile app development, core system support ([GitHub repository](https://github.com/patrick012016/college-quiz-quizazu-mobile-app))
 - [@tentegess](https://www.github.com/tentegess) - Admin panel
 - [@NicoMroo](https://www.github.com/NicoMroo) - Graphics
 - [@kBaginskik](https://www.github.com/kBaginskik) - Game session with [@Milosz08](https://www.github.com/Milosz08)

@@ -98,7 +98,7 @@ Before you begin, ensure you have met the following local development requiremen
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/patrick012016/college-quiz-quizazu.git
-   cd <your-project-folder>
+   cd college-quiz-quizazu
    ```
 2. **Configure environment variables:**
    To run the application locally, the following environment variables must be configured in the `.env` file at the root of your project. 

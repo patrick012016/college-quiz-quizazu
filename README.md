@@ -30,13 +30,13 @@ Quizazu is a client-server application designed for creating, managing, and part
 
 ## Gallery
 **Home page**
- <img width="1588" height="797" alt="zdj1" src="https://github.com/user-attachments/assets/c2cd129d-4d12-4ec8-b0d3-47c08b1f03d0" />
+ <img width="1588" height="797" alt="Quizazu web application home page" src="https://github.com/user-attachments/assets/c2cd129d-4d12-4ec8-b0d3-47c08b1f03d0" />
 
 **Player gameplay view**
-<img width="1189" height="788" alt="zdj2" src="https://github.com/user-attachments/assets/b0d07934-3b52-46c3-9e9f-91c220de6001" />
+<img width="1189" height="788" alt="Real-time player gameplay interface" src="https://github.com/user-attachments/assets/b0d07934-3b52-46c3-9e9f-91c220de6001" />
 
 **Host lobby view**
-<img width="1184" height="655" alt="zdj3" src="https://github.com/user-attachments/assets/26c90bbf-3202-4823-a23e-2c5600ab495c" />
+<img width="1184" height="655" alt="Host lobby management view" src="https://github.com/user-attachments/assets/26c90bbf-3202-4823-a23e-2c5600ab495c" />
 
 
 ## Features
